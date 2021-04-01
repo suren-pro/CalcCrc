@@ -6,21 +6,20 @@ namespace CrcCalculator
     class Program
     {
         //Code in php 
-        // function calcCrc($data)
-        //{
-        //$crc = 0xFFFF;
-        //    for ($i = 0; $i < strlen($data); $i++) {
-        //    $x = (($crc >> 8) ^ord($data[$i])) &0xFF;
-        //    $x ^= $x >> 4;
-        //    $crc = (($crc << 8) ^($x << 12) ^($x << 5) ^ $x) &0;
-        //    }
-        //    return strtoupper(dechex($crc));
-        //}
-        // $data = "00020101021229480008000001290212www.logus.am0316Երևան, Մաշտոց 50520452335802AM5912COMPANY NAME6007Yerevan54010530305155020357040.3662260805362900505362900204sdsd92330013PX00104042018010110207PAYX_QR6304";
-        //$data.=calCrc($data);
-        //echo $data;
+    // function calcCrc($data){
+    //    $crc = 0xFFFF;
+    //    for($i = 0; $i<strlen($data); $i++) {
+    //        $x = (($crc >> 8) ^ ord($data[$i])) & 0xFF;
+    //        $x ^= $x >> 4;
+    //        $crc = (($crc << 8) ^ ($x << 12) ^ ($x << 5) ^ $x) & 0xFFFF;
+    //    }
+    //    return strtoupper(dechex($crc));
+    //}
+// $data = "00020101021229480008000001290212www.logus.am0316Երևան, Մաշտոց 50520452335802AM5912COMPANY NAME6007Yerevan54010530305155020357040.3662260805362900505362900204sdsd92330013PX00104042018010110207PAYX_QR6304";
+//$data.=calCrc($data);
+//echo $data;
 
-        private static string CalcCrc(string qr)
+private static string CalcCrc(string qr)
         {
             ulong crc = 0xFFFF;
             for (int i = 0; i < qr.Length; i++)
