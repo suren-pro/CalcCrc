@@ -1,0 +1,13 @@
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\bin\Debug\netcoreapp3.1\CrcCalculator.exe
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\bin\Debug\netcoreapp3.1\CrcCalculator.deps.json
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\bin\Debug\netcoreapp3.1\CrcCalculator.runtimeconfig.json
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\bin\Debug\netcoreapp3.1\CrcCalculator.runtimeconfig.dev.json
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\bin\Debug\netcoreapp3.1\CrcCalculator.dll
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\bin\Debug\netcoreapp3.1\CrcCalculator.pdb
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\obj\Debug\netcoreapp3.1\CrcCalculator.csprojAssemblyReference.cache
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\obj\Debug\netcoreapp3.1\CrcCalculator.AssemblyInfoInputs.cache
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\obj\Debug\netcoreapp3.1\CrcCalculator.AssemblyInfo.cs
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\obj\Debug\netcoreapp3.1\CrcCalculator.csproj.CoreCompileInputs.cache
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\obj\Debug\netcoreapp3.1\CrcCalculator.dll
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\obj\Debug\netcoreapp3.1\CrcCalculator.pdb
+C:\Users\suren\source\repos\CrcCalculator\CrcCalculator\obj\Debug\netcoreapp3.1\CrcCalculator.genruntimeconfig.cache
